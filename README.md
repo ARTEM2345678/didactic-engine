@@ -89,35 +89,3 @@ h2 {
         </footer>
     </body>
 </html>
-body {
-    font-family: sans-serif;
-}
-header {
-    background-color: burlywood
-}
-h1 {
-    color: white;
-    background-color: ;
-}
-footer
-{
-    background-color: burlywood;
-    color: whitesmoke;
-}
-a {
-    border: none;
-    border-radius: 10px;
-    text-decoration: none;
-    color: white;
-    background: black;
-}
-img {
-    border: none;
-    border-radius: 10px;
-    text-decoration: none;
-    color: white;
-    background-color: burlywood;
-}
-h2 {
-    color: blue
-}
